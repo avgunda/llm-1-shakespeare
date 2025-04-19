@@ -1,4 +1,4 @@
-# llm-1-shakespeare
+# LLM for shakespeare style content generation
 
 This repository contains code for building a language model to generate Shakespeare-style text content. The project leverages modern machine learning techniques to emulate the writing style of William Shakespeare.
 
