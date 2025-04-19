@@ -37,11 +37,21 @@ This repository contains code for building a language model to generate Shakespe
      python main-gpt.py
      ```
 
+   - **Note**: The total training time for this model is approximately 1 hour when trained in Google Colab on a T4 GPU.
+
 3. **Generate Text**:
    - After training, use the script to generate Shakespeare-style text:
      ```bash
      python main-gpt.py --generate
      ```
+
+## Transformer Architecture
+
+The model used in this project is based on the Transformer architecture. Below is a diagram explaining the architecture:
+
+![Transformer Architecture](./image.png)
+
+*Figure 1: The Transformer - model architecture.*
 
 ## Example Output
 
@@ -52,8 +62,3 @@ To be, or not to be, that is the question: Whether 'tis nobler in the mind to su
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
