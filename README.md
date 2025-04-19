@@ -62,3 +62,8 @@ To be, or not to be, that is the question: Whether 'tis nobler in the mind to su
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+## Links
+
+Please visit the below repo by Andrej Karpathy to learn more about how to build a nano scale GPT from scratch
+https://github.com/karpathy/nanoGPT
